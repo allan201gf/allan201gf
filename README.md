@@ -6,7 +6,8 @@
 ### Quem eu sou?
 
  - Estudante de Analise e Desenvolvimento de Sistemas apaixonado por tecnologia.
- - Hoje foco meus estudos no Front-End (HTML, CSS e Javascript).
+ - Possuo conhecimentos em HTML, CSS e JS.
+ - Hoje meus estudos estão focados em Java (back-end);
 
 ### Contato
 

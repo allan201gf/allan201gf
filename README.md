@@ -5,9 +5,10 @@
 
 ### Quem eu sou?
 
- - Estudante de Analise e Desenvolvimento de Sistemas apaixonado por tecnologia.
- - Possuo conhecimentos em HTML, CSS e JS.
- - Hoje meus estudos estão focados em Java (back-end);
+ - Estudante de Analise e Desenvolvimento de Sistemas apaixonado por tecnologia;
+ - Formado em Processos Gerenciais pelo IFSP - São Carlos;
+ - Possuo conhecimentos em Java, HTML, CSS e JS;
+ - Hoje meus estudos estão focados em Java (back-end de aplicações web);
 
 ### Contato
 

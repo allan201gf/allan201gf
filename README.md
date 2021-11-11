@@ -7,8 +7,8 @@
 
  - Estudante de Analise e Desenvolvimento de Sistemas apaixonado por tecnologia;
  - Formado em Processos Gerenciais pelo IFSP - São Carlos;
- - Possuo conhecimentos em Java, HTML, CSS e JS;
- - Hoje meus estudos estão focados em Java (back-end de aplicações web);
+ - Possuo conhecimentos em Java, HTML, CSS e JS, SQL;
+ - O foco de meus estudos é Java (back-end) voltado para aplicações web em formato de api's utilizando SpringBoot e suas dependências e microsserviços com Kafka;
 
 ### Contato
 

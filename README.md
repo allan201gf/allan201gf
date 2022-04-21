@@ -5,7 +5,8 @@
 
 ### Quem eu sou?
 
- - Estudante de Analise e Desenvolvimento de Sistemas apaixonado por tecnologia;
+ - Programador Full-Stack Jr.
+ - Estudante de Analise e Desenvolvimento de Sistemas (3º semestre);
  - Formado em Processos Gerenciais pelo IFSP - São Carlos;
  - Possuo conhecimentos em Java, HTML, SQL, CSS e JS;
  - O foco de meus estudos é Java (back-end) voltado para aplicações web em formato de api's utilizando SpringBoot e suas dependências e microsserviços com Kafka;

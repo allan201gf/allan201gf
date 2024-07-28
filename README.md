@@ -5,13 +5,13 @@
 
 ### Quem eu sou?
 
- - Programador Full-Stack Jr.
- - Estudante de Analise e Desenvolvimento de Sistemas (3º semestre);
- - Formado em Processos Gerenciais pelo IFSP - São Carlos;
- - Possuo conhecimentos em Java, HTML, SQL, CSS e JS;
- - O foco de meus estudos é Java (back-end) voltado para aplicações web em formato de api's utilizando SpringBoot e suas dependências e microsserviços com Kafka;
+Software Engineer com 3 anos de experiência com foco no desenvolvimento de aplicações financeiras escaláveis utilizando as principais tecnologias do mercado, Java com Spring/Camel, Python, Databricks, arquitetura orientados a eventos e cloud (Azure). Atualmente trabalhando em projetos OpenFinance e Bureuas.
+
+Iniciei minha carreira na área de gestão empresarial, fazendo o curso de Processos Gerências no Instituto Federal de São Carlos (IFPS), trabalhei 3 anos com desenvolvimento de novos negócios no mercado imobiliário onde adquiri expertises que contribuem na área de tecnologia.
+
+Também graduado em Analise e Desenvolvimento de Sistemas pela Universade Paulista (UNIP) e atualmente cursando MBA em Data Science e Analytics pela USP (Esalq).
 
 ### Contato
-
+ - Linkedin: https://www.linkedin.com/in/allan-garcia-ferreira-a4459969/
  - E-mail: allan201gf@gmail.com
  - Whats-App: (16) 9 9626-1300
